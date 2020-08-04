@@ -2,7 +2,8 @@
 My first mern app
 
 In this app I create simple app with logging and changing data
-###Technology:
+
+### Technology:
 >**1.React**  
 >**2.Redux**  
 >**3.Express** 
