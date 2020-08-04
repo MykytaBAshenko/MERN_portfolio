@@ -3,7 +3,17 @@ My first mern app
 
 In this app I create simple app with logging and changing data
 ###Technology:
->**1.jwt token**
+>**1.React**  
+>**2.Redux**  
+>**3.Express** 
+>**4.Node**  
+>**5.MongoDB**  
+>**6.jsonwebtoken**  
+
+  
+  
+
+
 
 ### Installation:
 >**1. npm install **  
