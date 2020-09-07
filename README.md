@@ -22,6 +22,6 @@ In this app I create simple app with logging and changing data
 >**3. open new Terminal**  
 >**4. cd client && npm install**  
 >**5. npm start**  
->**6. for create admin go to link /createadmin and change values in file MERN_portfolio/routes/userRoute.js **  
+>**6. for create admin go to link /createadmin and change values in file MERN_portfolio/routes/userRoute.js**  
 On heroku:
 https://mbashenko.herokuapp.com/
