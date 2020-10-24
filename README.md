@@ -24,4 +24,3 @@ In this app I create simple app with logging and changing data
 >**4. cd client && npm install**  
 >**5. npm start**  
 >**6. for create admin go to link /createadmin and change values in file MERN_portfolio/routes/userRoute.js**  
-m/
