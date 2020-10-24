@@ -1,6 +1,7 @@
 # MERN_portfolio
 My first mern app
-
+Run on heroku:
+https://mbashenko.herokuapp.co
 In this app I create simple app with logging and changing data
 
 ### Technology:
@@ -23,5 +24,4 @@ In this app I create simple app with logging and changing data
 >**4. cd client && npm install**  
 >**5. npm start**  
 >**6. for create admin go to link /createadmin and change values in file MERN_portfolio/routes/userRoute.js**  
-On heroku:
-https://mbashenko.herokuapp.com/
+m/
