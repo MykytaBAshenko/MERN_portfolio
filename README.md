@@ -1,7 +1,9 @@
 # MERN_portfolio
 My first mern app
+
 Run on heroku:
-https://mbashenko.herokuapp.co
+https://mbashenko.herokuapp.com  
+
 In this app I create simple app with logging and changing data
 
 ### Technology:
